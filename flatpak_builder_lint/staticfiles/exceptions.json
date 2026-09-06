@@ -5965,7 +5965,8 @@
             "finish-args-unnecessary-xdg-config-fcitx-create-access": "need for simulating ibus daemon and changing kde system xkb settings",
             "finish-args-unnecessary-xdg-config-fontconfig-ro-access": "Predates the linter rule",
             "finish-args-unnecessary-xdg-config-ibus-create-access": "Predates the linter rule",
-            "finish-args-unnecessary-xdg-config-kxkbrc-rw-access": "Predates the linter rule"
+            "finish-args-unnecessary-xdg-config-kxkbrc-rw-access": "Predates the linter rule",
+            "desktop-file-is-nodisplay": "Input method doesn't need to show in menu"
         }
     },
     "org.fedoraproject.MediaWriter": {
